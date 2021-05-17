@@ -9,7 +9,8 @@
 
 <p align="center">
   <a href="https://github.com/mohamedchakibhajji">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohamedchakibhajji&count_private=true&hide_border=true&show_icons=true" alt="mohamedchakibhajji's github stats">
+ 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedchakibhajji&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   </a>
 </p>
 

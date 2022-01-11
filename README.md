@@ -22,8 +22,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedchakibhajji)](https://github.com/mohamedchakibhajji/github-profile-trophy)
-
 
 📈 **My GitHub Stats:**
 

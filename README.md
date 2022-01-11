@@ -22,12 +22,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohamedchakibhajji)](https://github.com/mohamedchakibhajji/github-profile-trophy)
 
 
 📈 **My GitHub Stats:**
